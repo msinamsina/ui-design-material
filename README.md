@@ -2,7 +2,7 @@
 This repository list the online tools which may be needed to design UI or edit picture
 
 
-## Color pallet
+## Color pallette
 
 |#    |Linke                   |coment              |
 |-----|------------------------|--------------------|
